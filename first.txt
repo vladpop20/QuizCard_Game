@@ -2,3 +2,4 @@ What extension does the C language have?/.c
 When USA got to the moon?/In 1969
 When was the hubble telescope launched?/in 1990
 What is the 5th planet in the solar system?/Jupiter
+What is the distance between the earth and the moon?/384.400 km
