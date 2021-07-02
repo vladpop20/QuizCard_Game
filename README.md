@@ -1,6 +1,6 @@
 # QuizCard Game
 
-This is an simple exercise, to get used to using Java Swing, and to experience the functionality of saving and reloading a saved file.
+This is an simple exercise, to get used to Java Swing, and to experience the functionality of saving and reloading a saved file.
 
 - Run QuizCardBuilder to create the quiz cards, with a question and an answer respectively
 - Use File -> Save button to save the set of cards from this sesion.
