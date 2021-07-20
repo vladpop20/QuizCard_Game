@@ -9,6 +9,6 @@ This is an simple exercise, to get used to Java Swing, and to experience the fun
 - Use File -> Load card set button, to load the set of card you have created previously.
 
 ## Demo pictures
-![alt-text](https://github.com/vladpop20/QuizCard_Game/blob/master/Card_Builder.jpg)
+![alt-text](https://github.com/vladpop20/SimpleChatExercise/blob/master/server.jpg)
 
-![alt-text](https://github.com/vladpop20/QuizCard_Game/blob/master/Card_Player.jpg)
+![alt-text](https://github.com/vladpop20/SimpleChatExercise/blob/master/client.jpg)
